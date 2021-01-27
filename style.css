@@ -1,0 +1,62 @@
+ .parallax{
+     background-image:url(Night\ city.jpg);
+     height:1020px;
+     width:100%;
+     background-attachment:fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size:cover;
+     margin:0;
+ }
+
+ body{
+     margin:0;
+ }
+
+#head{
+    Text-align:center;
+}
+
+#name{
+    color:rgb(251, 255, 0);
+    margin:0;
+}
+
+#about{
+    background:blue;
+    font-size:500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
