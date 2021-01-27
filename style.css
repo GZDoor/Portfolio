@@ -15,6 +15,9 @@
 
 #head{
     Text-align:center;
+    position:absolute;
+    top:8%;
+    left:50%;
 }
 
 #name{
