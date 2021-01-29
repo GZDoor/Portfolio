@@ -26,27 +26,74 @@
 }
 
 #about{
-    background:blue;
-    font-size:500px;
+    text-align:center;
+    font-size:20px;
+    margin:10%;
+    height:700px;
 }
 
+#info{
+    margin:0;
+}
 
+#itag{
+    font-size:50px;
+}
 
+#skills{
+    height:1100px;
+    width:100%;
+    background:rgb(70, 100, 182);
+}
 
+#lan{
+    text-align:center;
+}
 
+#boxorder{
+    display:flex;
+}
 
+#box1{
+    font-size:40px;
+    width:40%;
+    border:8px solid black;
+    margin-left:5%;
+    text-align:center;
+}
 
+#box1i{
+    font-size:20px;
+}
 
+#box2{
+    font-size:40px;
+    width:40%;
+    border:8px solid black;
+    margin-left:5%;
+    text-align:center;
+}
 
+#box2i{
+    font-size:20px;
+}
 
+#boxorder2{
+    display:flex;
+}
 
+#box3{
+    font-size:40px;
+    width:40%;
+    border:8px solid black;
+    margin-left:5%;
+    margin-top:8%;
+    text-align:center;
+}
 
-
-
-
-
-
-
+#box3i{
+    font-size:20px;
+}
 
 
 
